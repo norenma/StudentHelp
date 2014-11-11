@@ -1,0 +1,28 @@
+{
+  "name": "web-student-polymer",
+  "version": "0.1",
+  "description": "This is a web based project developed on Polymer",
+  "keywords": [
+    "polymer",
+    "maps"
+  ],
+  "authors": [
+    "Caike Motta",
+    "Markus Noren",
+    "Mina Zee",
+    "Marina Dezordi",
+    "Vinicius Gerbardt"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.4.2",
+    "google-map": "https://github.com/GoogleWebComponents/google-map"
+  }
+}

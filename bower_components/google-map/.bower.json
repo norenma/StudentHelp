@@ -1,0 +1,13 @@
+{
+  "name": "google-map",
+  "_cacheHeaders": {
+    "ETag": "\"6c3e7813befb65e6fb53706648d5d73d\"",
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "_release": "e-tag:6c3e7813b",
+  "main": "index",
+  "_source": "https://github.com/GoogleWebComponents/google-map",
+  "_target": "*",
+  "_originalSource": "https://github.com/GoogleWebComponents/google-map",
+  "_direct": true
+}
